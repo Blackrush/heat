@@ -1,0 +1,12 @@
+[submodule "util"]
+	path = util
+	url = git@github.com:Blackrush/heat-util.git
+[submodule "world"]
+	path = world
+	url = git@github.com:Blackrush/heat-world.git
+[submodule "d2vendor"]
+	path = d2vendor
+	url = git@github.com:Blackrush/heat-d2vendor.git
+[submodule "d2util"]
+	path = d2util
+	url = git@github.com:Blackrush/heat-d2util.git
